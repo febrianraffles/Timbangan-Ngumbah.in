@@ -1,0 +1,141 @@
+{
+  "uuid": "8ef6c8bc743ab528cffbadc2dbb1586c",
+  "path": "Offline/PCB Timbangan",
+  "name": "PCB Timbangan",
+  "content": "PCB Timbangan Ngumbah.in",
+  "created_at": "2023-10-11 14:26:27",
+  "updated_at": "2023-11-13 15:30:30",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "349111ba103855f43dfa18e1e35e192a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "04c7062249704e64aff300f3982a1599": 1,
+        "0606a691946b4a7483c159050f261465": 3,
+        "6d52ea0448e74126aa17e6fc8d8fe5ac": 1,
+        "511f773a425b492ca766dd5561ad2084": 2,
+        "e11121d1c97943c189ab6b74443e2411": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "ESP32-DEVKIT-V1-30PIN NORMALIZED",
+          1,
+          "ESP32-DEVKITV1_ESP32-DEVKITV1",
+          "1",
+          {
+            "Contributor": "KiraKira san",
+            "spiceSymbolName": "ESP32-DEVKIT-V1-30PIN",
+            "Supplier": "",
+            "Supplier Part": "",
+            "Manufacturer Part": "",
+            "puuid": "fed5720f683e4a9294f3fca4b45ca860",
+            "uuid": "04c7062249704e64aff300f3982a1599"
+          }
+        ],
+        [
+          "DC-DC-STEP-DOWN-LM2596",
+          1,
+          "DC-DC-STEP-DOWN-LM2596",
+          "2",
+          {
+            "Contributor": "Lorenz Hohn",
+            "spiceSymbolName": "DC-DC-STEP-DOWN-LM2596",
+            "Manufacturer Part": "",
+            "puuid": "0aebf926c66f4971a078b4523c8f8141",
+            "uuid": "e11121d1c97943c189ab6b74443e2411"
+          }
+        ],
+        [
+          "1x2 Header 2.54mm",
+          2,
+          "HEADER_2",
+          "H1,H2",
+          {
+            "Manufacturer Part": "New SchematicLib",
+            "Contributor": "PedroM",
+            "spiceSymbolName": "1x2 Header 2.54mm",
+            "puuid": "e16bfd7f2c274cc2978bfe25bca3d0ab",
+            "uuid": "511f773a425b492ca766dd5561ad2084"
+          }
+        ],
+        [
+          "HEADER-04X1-MALE",
+          3,
+          "PINHEADER_04X1_MALE",
+          "J1,J2,J3",
+          {
+            "description": "4 x 0.1 inch Header Male",
+            "Contributor": "SparkFun",
+            "spiceSymbolName": "HEADER-04X1-MALE",
+            "Manufacturer Part": "",
+            "puuid": "0fe562f3c3a744368173363fa7b66ce0",
+            "uuid": "0606a691946b4a7483c159050f261465"
+          }
+        ],
+        [
+          "HX711 LOAD CELL AMPLIFIER",
+          1,
+          "HX711 LOAD CELL AMPLIFIER HX711 BREAKOUT",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Dev 91",
+            "spiceSymbolName": "HX711 LOAD CELL AMPLIFIER",
+            "puuid": "c250ca502e84492e92551a811f5c04b4",
+            "uuid": "6d52ea0448e74126aa17e6fc8d8fe5ac"
+          }
+        ]
+      ],
+      "updateTime": 1698292703,
+      "createTime": 1697009188,
+      "histories": [],
+      "created_at": "2023-10-11 14:26:28",
+      "updated_at": "2023-10-26 10:58:23"
+    },
+    {
+      "uuid": "1623e19816c68e8b3b8e476aacadf0a4",
+      "puuid": "8ef6c8bc743ab528cffbadc2dbb1586c",
+      "title": "PCB_PCB Timbangan_2",
+      "filename": "PCB_PCB Timbangan_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "fed5720f683e4a9294f3fca4b45ca860": 1,
+        "0aebf926c66f4971a078b4523c8f8141": 1,
+        "e16bfd7f2c274cc2978bfe25bca3d0ab": 2,
+        "0fe562f3c3a744368173363fa7b66ce0": 3,
+        "c250ca502e84492e92551a811f5c04b4": 1,
+        "68f3172bd1c74cb3952bd2f357b8e7e3": 1
+      },
+      "BOM": [],
+      "updateTime": 1699863366,
+      "createTime": 1699861414,
+      "histories": [],
+      "created_at": "2023-11-13 14:43:34",
+      "updated_at": "2023-11-13 15:16:06"
+    }
+  ],
+  "sort": [],
+  "title": "PCB Timbangan",
+  "foldername": "PCB Timbangan",
+  "schfilename": "PCB Timbangan.json",
+  "schfilemtime": 1698292703247
+}
